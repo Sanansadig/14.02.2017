@@ -1,0 +1,24 @@
+5 En cox istifade olunan text editorlar
+
+Sublime text
+
+Bu aciq qanyaq tipli text edirtordur ve hem windows hem de Linux e
+emeliyyat sistemi ile isleye bilir. Onun guclu axtaris mexanizmi
+, coxlu klaviatura komandalari, bu text editor fikrin yayinmasina azaldir ve 
+isine konsentrasiya olmana komek edir. Sublime text-de biz coxlu cod yazdigimiz
+fayllari saxalaya bilerik. Bu software qiymetlendirme software kimi pulsuzdur ancaq
+ne qeder muddet ondan pulsuz istifade deqiq deyil. Tam lisensiza 70$dir.
+
+
+Notepad++
+
+Bu kod editor cox sayda proqramistler terefinden istifade olunur ve daim upgrade 
+olunur.Onun tabbed interface bize coxlu senedlerle islemeye imkan verir.
+Notpad++ pulsuzdur ve ancaq Windows emeliyyeat sistemi ile isleyir. 
+Eger siz kode editorla yazmaga yeni baslamisinizsa onda bu kod editor \
+en yaxsi secim ola biler.
+
+Atom
+Atom 21-ci esrin kod editoru adlandirilir ve bugunun developerlerinin 
+ehtiyaclarini odeyecek text editordur. Atom hal-hazirda OSI X de isleyir ancaq
+Windows and Linux ucun de hazirlanmasi planlasidirilir.
